@@ -1,0 +1,10 @@
+1. REST API adalah jenis standar arsitektur berbasis web yang menggunakan protokol 
+   HTTP untuk berkomunikasi data/berkomunikasi dengan program lainnya
+3. Headless architecture adalah sistem manajemen software yang memisahkan antara frontend dan backend.
+   kelebihannya dibandingkan menyajikan frontend secara langsung adalah:
+	a. Setiap fitur dapat ditambahkan dan diuji secara terpisah tanpa harus menggangu keseluruhan 
+	sistem dalam software tersebut.
+	b. Lebih aman karena adanya API yang menjebatani antara frontend dan backend.
+	c. Efesiensi biaya dan waktu karena headless architecture membagi frontend dan backend menjadi 
+	   beberapa bagian sehingga memudahkan para developer untuk mengotak-atik codingannya tanpa harus 
+       membongkar keseluruhan software.
